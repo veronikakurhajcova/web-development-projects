@@ -19,4 +19,4 @@ This project is a simple presentation page for a company that specializes in veh
 2. Open the index.html file in your browser.
 
 ## Screenshot
-![Ukážka projektu](images/screenshot.png)
+![Ukážka projektu](assets/img/screenshot.png)
