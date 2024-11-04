@@ -13,3 +13,7 @@ This project is a simple presentation page for a company that specializes in veh
 - HTML
 - CSS
 - JavaScript
+
+## Instructions for Running
+1. Clone the repository or download the files directly from GitHub. <br>
+2. Open the index.html file in your browser. 
