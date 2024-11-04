@@ -18,3 +18,8 @@ The project utilizes:
 1. Clone the repository or download the files directly from GitHub. <br>
 2. Open the index.html file in your browser. <br>
 3. For full functionality, ensure that all linked CSS and JavaScript files are available.
+
+## Screenshot
+![Ukážka projektu](images/screenshot.png)
+
+   
