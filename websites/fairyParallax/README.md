@@ -20,3 +20,5 @@
 2. Open the index.html file in your browser
 3. Interact with the page: Move your mouse around the screen to experience the parallax effect as the background shifts, creating a three-dimensional illusion.
 
+## Screenshot
+![Ukážka projektu](img/screenshot.png)
