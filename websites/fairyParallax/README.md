@@ -9,8 +9,14 @@
 - **Parallax Effect**: The page responds to mouse movements, creating a sense of depth and motion.
 - **Fairy-Tale Environment**: The setting is placed in a magical forest, adding a fairy-tale and dreamy touch to the project.
 
-## Technologies Used
+## Technologies used
 
 - HTML
 - CSS
 - JavaScript
+
+## Instructions to run
+1. Clone this repository
+2. Open the index.html file in your browser
+3. Interact with the page: Move your mouse around the screen to experience the parallax effect as the background shifts, creating a three-dimensional illusion.
+
