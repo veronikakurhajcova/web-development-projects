@@ -16,4 +16,7 @@ This project is a simple presentation page for a company that specializes in veh
 
 ## Instructions for Running
 1. Clone the repository or download the files directly from GitHub. <br>
-2. Open the index.html file in your browser. 
+2. Open the index.html file in your browser.
+
+## Screenshot
+![Ukážka projektu](images/screenshot.png)
