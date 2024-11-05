@@ -18,4 +18,4 @@ Welcome to the Speech Converter application! This simple tool allows you to narr
 To get started with the Speech Converter, simply clone this repository and open `index.html` in your browser. You will be able to immediately start entering text and selecting a language for conversion.
 
 ## Screenshot
-
+![Ukážka projektu](images/screenshot.png)
