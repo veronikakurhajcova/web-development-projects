@@ -20,4 +20,4 @@
 2. Open the index.html file in your browser
 
 ## Screenshot
-![Ukážka projektu](img/screenshot.png)
+![Ukážka projektu](images/screenshot.png)
