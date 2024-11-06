@@ -16,3 +16,10 @@ This portfolio is built using the following technologies:
 - **JavaScript** - For interactivity and functionality.
 - **jQuery** - For easier DOM manipulation and animations.
 
+## Instructions for Running
+1. Clone the repository or download the files directly from GitHub. <br>
+2. Open the index.html file in your browser.
+
+## Screenshot
+![Ukážka projektu](assets/img/screenshot.png)
+
