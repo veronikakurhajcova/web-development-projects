@@ -22,5 +22,5 @@
 
 ## Screenshot
 ![Ukazka projektu](img/screenshot1.png)
-![Ukážka projektu](img/screenshot.png)
+![Ukážka projektu](img/screenshot2.png)
 
