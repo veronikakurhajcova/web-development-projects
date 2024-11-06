@@ -15,6 +15,9 @@ This portfolio is built using the following technologies:
 - **Bootstrap** - For responsive design and quick prototyping.
 - **JavaScript** - For interactivity and functionality.
 - **jQuery** - For easier DOM manipulation and animations.
+- **AOS library** - Improves user experience: Animations make the website more interactive and visually appealing.<br>
+I don't need to write custom JavaScript for each animation, saving you time. <br>
+I have full control over how and when the animations are triggered.
 
 ## Instructions for Running
 1. Clone the repository or download the files directly from GitHub. <br>
