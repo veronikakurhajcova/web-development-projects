@@ -24,6 +24,8 @@ This website represents a company specializing in the production of castings, fo
 2. Open the `index.html` file in your preferred browser.
 3. For full functionality, a modern browser (Chrome, Firefox, Edge) is recommended.
 
+## Screenshot
+![Ukazka z projektu](assets/img/screenshot.png)
 
 
 
