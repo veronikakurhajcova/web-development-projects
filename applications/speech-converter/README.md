@@ -9,9 +9,11 @@ Welcome to the Speech Converter application! This simple tool allows you to narr
 
 ## Technologies Used
 
-- **HTML**: For the structure and content of the application.
-- **CSS**: For the design and styling of the application.
-- **JavaScript**: For implementing the text-to-speech conversion logic and user interface interaction.
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
 
 ## Getting Started
 
