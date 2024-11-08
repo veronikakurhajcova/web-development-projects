@@ -10,10 +10,10 @@ This project is a simple presentation page for a company that specializes in veh
 - Responsive layout for mobile devices
 
 ## Technologies
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## Instructions for Running
 1. Clone the repository or download the files directly from GitHub. <br>
